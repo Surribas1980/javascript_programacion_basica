@@ -43,6 +43,8 @@ Cando executamos os comandos, sairá por pantalla o seguinte:
 
 
 ![](./imaxenes/peticion_do_primeiro_numero.png)
+
+
 No momento que se produce dita saída, deberemos ingresalo número, deste xeito sairá a seguinte saída:
 
 
