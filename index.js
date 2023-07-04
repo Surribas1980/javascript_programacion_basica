@@ -5,7 +5,7 @@ const rl = readline.createInterface({ input, output });
 
 /* Exemplo 1
 const answer = await rl.question('Ingresa primer número: ');
-fd
+fdddd
 
 
 const answer2 = await rl.question('Ingresa segundo número: ');
