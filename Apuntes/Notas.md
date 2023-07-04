@@ -1,5 +1,61 @@
 # Antes de comenzar 
 
+## O arquivo 'package.json' 
+
+O arquivo package.json deberá ser modificado, introducindo unha línea para poder executar os programas. Inicialmente dito arquivo ven da seguinte maneira:
+
+```json
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  }
+}
+
+```
+
+deberemos introducir unha línea, escribindo:
+
+```json
+"type":"module"
+```
+
+quedando así: 
+
+```json
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "type":"module"
+}
+
+
+```
+
+## Os programas
+
 > Para poder realizalos exercicios, deberemos insertar as seguintes líneas de código
 
 ```javascript
