@@ -1,6 +1,8 @@
-function magicNumber(min, max){
+/*function magicNumber(min, max){
 		return Math.floor(Math.random() * (max - min)) + min
 	}
+*/
+import {magicNumber} from "./funcions.js";
 
     var alumnos = [
 	     { nombre: "Felix", puesto: magicNumber(1, 20) },
