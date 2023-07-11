@@ -1,9 +1,11 @@
 
 # Exercicios
+> Os exercicios 1, 2 e 3 implica unha ***estructura condicional***
+>
 
 ## Exercicio 1
 
-> Elabora un programa e algoritmo, no que se lea de teclado dous números enteiros 'a' e 'b' e evalúe cal dos dous é maior.
+> Elabora un programa e algoritmo, no que se lea de teclado dous números enteiros 'a' e 'b' e evalúe cal dos dous é maior, e se son iguais.
 
 
 ## Exercicio 2
@@ -14,11 +16,11 @@
 
 > Elabora un programa e algoritmo que solucione o seguinte:
 > en función do valor que sexa lido por teclado, escribir os seguintes menxaxes: 
->  - N < 1 : " Menor que un"
->  - N = 1 : " Un "
->  - N = 2 : " Dous "
->  - N = 3 : " Tres "
->  - N >= 4 : " Maior ou igual a catro "
+>  - Si N < 1 : " Menor que un"
+>  - Si N = 1 : " Un "
+>  - Si N = 2 : " Dous "
+>  - Si N = 3 : " Tres "
+>  - Si N >= 4 : " Maior ou igual a catro "
 
 ## Exercicio 4
 > Elabora un programa para calculalo prezo dunha partida de artículos aplicando un desconto crecente según as seguintes regras:
