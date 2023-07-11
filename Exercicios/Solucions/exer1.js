@@ -9,9 +9,12 @@ const bEmaior = parseInt(a) < parseInt(b);
 
 if(aEmaior){
   console.log('O número a é maior que b')
-}else if(bEmaior){
+}
+
+if(bEmaior){
   console.log('O número b é maior')
-}else{
+}
+if(!aEmaior && !bEmaior){
   console.log('son iguais')
 }
 
