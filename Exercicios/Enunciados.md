@@ -1,6 +1,6 @@
 
 # Exercicios
-> Os exercicios 1, 2 e 3 implica unha ***estructura condicional***
+> Os exercicios 1, 2, 3 e 4 implica unha ***estructura condicional***
 >
 
 ## Exercicio 1

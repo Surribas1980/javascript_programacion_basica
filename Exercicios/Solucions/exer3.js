@@ -1,2 +1,0 @@
-import { rl } from "./archivosDeCabecera";
-
