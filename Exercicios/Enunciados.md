@@ -39,3 +39,11 @@ Unidades | Precio Unitario |
 
 ## Exercicio 6
 > Elabora un programa e algoritmo que desenrole e escriba a táboa de multiplicar dun número enteiro positivo lido por polo teclado.
+
+
+# Exercios de enlaces web
+## Varios
+> [En espacio-latino](https://javascript.espaciolatino.com/evaluar/clases-objetos.html)
+>
+> [En git](https://gist.github.com/a0viedo/58d8dc8a0d67e7711ebf.js)
+
