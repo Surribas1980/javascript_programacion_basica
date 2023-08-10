@@ -23,7 +23,7 @@ import {magicNumber} from "./funcions.js";
 	// console.log
 	console.group("grupo console.log");
 	console.time("tiempo grupo console.log");
-	console.log("%c %s", "background: black; color: #FFF; font-size:20px;" ,nombre);
+	console.log("%c %s", "background: blue; color: #FFF; font-size:20px;" ,nombre);
 	console.timeEnd("tiempo grupo console.log");
 	console.groupEnd();
 	
@@ -39,7 +39,7 @@ import {magicNumber} from "./funcions.js";
 	// console.warn
 	console.group("grupo console.warn");
 	console.time("tiempo grupo console.warn");
-	console.warn("%c %s", "background: #FFAA00; color: #FFF; font-size:22px;" ,nombre);
+	console.warn("%c %s", "background: #FFAA00; color:  #95ff33; font-size:22px;" ,nombre);
 	console.timeEnd("tiempo grupo console.warn");
 	console.groupEnd();
 	

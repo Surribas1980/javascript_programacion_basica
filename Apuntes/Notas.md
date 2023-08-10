@@ -69,6 +69,7 @@ Posteriormente, cando queiramos introducir texto deberemos utilizar o seguinte c
 
 ```javascript
 const answer = await rl.question('Ingresa un número:  ');
+
 ```
 Neste caso, estamos a facela pregunta seguinte: 
 ```
@@ -80,7 +81,13 @@ Pra que se escriba o número por consola, podemos utilizar a función 'console.l
 ```javascript
 console.log('O número introducido foi: ',answer)
 ```
+Para finalizar, deberemos escribir a seguinte sentenza:
+```javascript
+rl.close();
+```
+Dita sentenza, pecha o proceso e pasará de novo a saíla consola.
 
+## Excuta o arquivo
 
 Para executar este arquivo, deberemos escribir na consola o seguinte:
 

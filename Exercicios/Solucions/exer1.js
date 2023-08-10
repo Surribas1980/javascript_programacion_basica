@@ -8,7 +8,7 @@ const aEmaior = parseInt(a) > parseInt(b);
 const bEmaior = parseInt(a) < parseInt(b);
 
 if(aEmaior){
-  console.log('O número a é maior que b')
+  console.log('O número a é maior que b',aEmaior)
 }
 
 if(bEmaior){
