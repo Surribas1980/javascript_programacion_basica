@@ -41,6 +41,51 @@ Unidades | Precio Unitario |
 > Elabora un programa e algoritmo que desenrole e escriba a táboa de multiplicar dun número enteiro positivo lido por polo teclado.
 
 
+## Exercicio 7
+> Elabora un programa que solicite un número N ( enteiro ), que determine se o número é primo ou non.
+
+## Exercicio 8 
+> Escribe un programa que determine cantos díxitos decimais se necesitan para escribilo valor N lido por teclado
+
+## Exercicio 9
+> Elaborar un programa que lea tres números positivos e comprobe se son iguais. Por exemplo:
+
+Entrada | Saída |
+:-----------: | :-----------: |
+|5 5 5 | Son tres números iguais | 
+|4 6 4 | Son dous números iguais | 
+|4 6 53 | Os tres números son distintos | 
+
+## Exercicio 10
+> Defíninse os números triangulares como os obtidos de sumar os números naturais sucesivos 1,2,3 ..., é dicir, que os primeiros números triangulares son 1,3,6,10, etc .
+> Elabora un programa onde se pida por consola un número enteiro N, e escriba os primeiros números triangulares.
+
+## Exercicio 11
+> Elabora un programa que pida por consola un valor numérico e escriba o número o revés. Exemplo:
+
+Entrada | Saída |
+:-----------: | :-----------: |
+|54 |45 | 
+|968 | 869 | 
+|1234 | 4321 | 
+
+
+---
+# Strings
+
+## Exercicio 12
+> Facer un programa que lea unha cadea por teclado e escriba en pantalla a línea obtida según a seguinte regra: `primeiro escriba o primeiro caracter,logo o último, o penúltimo, e a continuación o segundo,terceiro, logo o ante-penúltimo, etc`.
+> Por exemplo: 
+Entrada | Saída |
+:-----------: | :-----------: |
+|turismo |tomursi | 
+|cartas | csaart | 
+
+## Exercicio 13
+> Facer un programa que elimine todos os espacios en branco e números dunha cadea lida por consola.
+
+
+
 # Exercios de enlaces web
 ## Varios
 > [En espacio-latino](https://javascript.espaciolatino.com/evaluar/clases-objetos.html)

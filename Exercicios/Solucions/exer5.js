@@ -1,44 +1,26 @@
-import {rl} from './funcions.de.cabecera.js';
+//import { rl } from "./funcionsObrigatorias.js";
 
-function magicNumber(min, max){
-		return Math.floor(Math.random() * (max - min)) + min
-	}
+//import { calcularPrecioTotal } from "./funcions/funcions.js";
+import * as readline from 'node:readline/promises';
+import { stdin as input, stdout as output } from 'node:process';
+
+let rl = readline.createInterface({ input, output });
+
 
 async function func(){
   const pasarANum = await rl.question("Introduce o número de unidades que queres: ");
+
   return pasarANum;
 }
 let miCallback = (result)=>{
-  
-  parseInt(result) > 0 ? func().then(miCallback) : rl.close();
-  
-  /*
   if(parseInt(result) > 0){
     func().then(miCallback) 
   }else{
     rl.close()
   }
-  */
     
 }
-
-
-async function outra(){
- let dato;
-  do{
-    let pasarANum = await rl.question("Introduce un número positivo se queres saír do bucle: ");
-    dato = await pasarANum;
-  }while(parseInt(dato) < 0);
-  console.log('dato: ',dato)
-  rl.close();
-  
-}
-
-//outra();
-
-
-export {magicNumber,func,miCallback}
-
+func().then(miCallback)
 
 /*
 const rl = readline.createInterface({
