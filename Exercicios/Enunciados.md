@@ -75,7 +75,8 @@ Entrada | Saída |
 
 ## Exercicio 12
 > Facer un programa que lea unha cadea por teclado e escriba en pantalla a línea obtida según a seguinte regra: `primeiro escriba o primeiro caracter,logo o último, o penúltimo, e a continuación o segundo,terceiro, logo o ante-penúltimo, etc`.
-> Por exemplo: 
+> Por exemplo:
+
 Entrada | Saída |
 :-----------: | :-----------: |
 |turismo |tomursi | 
