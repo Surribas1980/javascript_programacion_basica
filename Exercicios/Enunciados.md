@@ -94,7 +94,14 @@ Entrada | Saída |
 > [En espacio-latino](https://javascript.espaciolatino.com/evaluar/arrays_objetos.html)
 > [En espacio-latino](https://javascript.espaciolatino.com/evaluar/clases-objetos.html)
 
+### Enlaces interesantes:
+
+> [En espacio-latino](https://javascript.espaciolatino.com/lenguaje/objetos/string/buscar_subcadena.htm)
+> [En espacio-latino](https://javascript.espaciolatino.com/lenguaje/objetos/string/index.htm)
+
 ## Alejandro Oviedo 
 > [En gist](https://gist.github.com/a0viedo/58d8dc8a0d67e7711ebf.js)
 > [En gist](https://gist.github.com/a0viedo/58d8dc8a0d67e7711ebf)
+>
+> 
 
