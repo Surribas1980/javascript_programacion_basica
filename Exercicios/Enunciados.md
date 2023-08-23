@@ -88,8 +88,13 @@ Entrada | Saída |
 
 
 # Exercios de enlaces web
-## Varios
+
+## En espacio latino
+> [En espacio-latino](https://javascript.espaciolatino.com/evaluar/strings-basico.htm)
+> [En espacio-latino](https://javascript.espaciolatino.com/evaluar/arrays_objetos.html)
 > [En espacio-latino](https://javascript.espaciolatino.com/evaluar/clases-objetos.html)
->
-> [En git](https://gist.github.com/a0viedo/58d8dc8a0d67e7711ebf.js)
+
+## Alejandro Oviedo 
+> [En gist](https://gist.github.com/a0viedo/58d8dc8a0d67e7711ebf.js)
+> [En gist](https://gist.github.com/a0viedo/58d8dc8a0d67e7711ebf)
 
